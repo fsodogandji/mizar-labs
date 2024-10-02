@@ -35,3 +35,4 @@ Mizar is building a marketplace for algo-traders to deploy and share their tradi
 - Website: [https://mizar.ai/](https://mizar.ai/)
 - PyPi Releases: [https://pypi.org/project/mizar-labs/](https://pypi.org/project/mizar-labs/)
 - Source Code: [https://github.com/MizarAI/mizar-labs](https://github.com/MizarAI/mizar-labs)
+- 
